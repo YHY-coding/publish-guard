@@ -1,0 +1,5 @@
+# 自分用の検索語(勤め先名・本名など)は、この箱の外に置く。まちがって置いても入らないようにする
+terms.txt
+claim-words.txt
+*.local.*
+.DS_Store

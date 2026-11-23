@@ -1,0 +1,17 @@
+{
+  "name": "publish-guard",
+  "version": "0.1.0",
+  "description": "公開の前後に確かめる道具。秘密・個人情報・絶対パス・gitの作者メールの検索、公開後の突き合わせ(clone と cmp)、数字の日付と出典・保証表現の検出、専門家に聞く項目の整理(日本語)",
+  "author": {
+    "name": "publish-guard"
+  },
+  "keywords": [
+    "publish",
+    "secrets",
+    "privacy",
+    "github-pages",
+    "verification",
+    "japanese"
+  ],
+  "license": "MIT"
+}
